@@ -1,16 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
 
       <div>
-        <h1>PUSHPALATHA</h1>
+        <h1>PUSHPALATHA P</h1>
         <h3>Web Developer</h3>
         <hr>
 
-          <h5>Tanjore,PATTUKKOTTAI</h5>
+          <h5>tanjore,PATTUKKOTTAI</h5>
           <h5>pushpalathapanchatcharam@gmail.com</h5>
           <h5>9600683346</h5>
         </hr>
@@ -55,5 +53,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
